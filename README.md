@@ -6,4 +6,6 @@ Updated an existing code to fix issues regarding collecting employee data, calcu
 <img src="screenshot.png">
 
 [](https://github.com/ronhoover97/payroll-tracker)https://github.com/ronhoover97/payroll-tracker
+
 [](https://ronhoover97.github.io/payroll-tracker/)https://ronhoover97.github.io/payroll-tracker/
+
